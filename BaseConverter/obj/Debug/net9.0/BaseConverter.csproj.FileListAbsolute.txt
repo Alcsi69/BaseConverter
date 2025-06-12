@@ -1,0 +1,15 @@
+/home/alcsi69/csharp/BaseConverter/BaseConverter/bin/Debug/net9.0/BaseConverter
+/home/alcsi69/csharp/BaseConverter/BaseConverter/bin/Debug/net9.0/BaseConverter.deps.json
+/home/alcsi69/csharp/BaseConverter/BaseConverter/bin/Debug/net9.0/BaseConverter.runtimeconfig.json
+/home/alcsi69/csharp/BaseConverter/BaseConverter/bin/Debug/net9.0/BaseConverter.dll
+/home/alcsi69/csharp/BaseConverter/BaseConverter/bin/Debug/net9.0/BaseConverter.pdb
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.AssemblyInfoInputs.cache
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.AssemblyInfo.cs
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.csproj.CoreCompileInputs.cache
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.sourcelink.json
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.dll
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/refint/BaseConverter.dll
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.pdb
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/BaseConverter.genruntimeconfig.cache
+/home/alcsi69/csharp/BaseConverter/BaseConverter/obj/Debug/net9.0/ref/BaseConverter.dll
